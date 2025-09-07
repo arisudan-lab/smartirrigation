@@ -1,3 +1,3 @@
-#this is my first project 
+this is my first project 
 <br>
-#make a app/hardware for smart irrigation
+makeing a app/hardware for smart irrigation
